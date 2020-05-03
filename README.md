@@ -2,6 +2,7 @@
 
 https://github.com/m-mitsuhide/axios-mock-server/tree/develop/examples/with-nuxtjs
 
+# How to work
 
 ```
 yarn install
