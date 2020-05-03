@@ -1,26 +1,15 @@
+# Ref
+
 https://github.com/m-mitsuhide/axios-mock-server/tree/develop/examples/with-nuxtjs
 
 
-# nuxt-yarn-axios-mock-example
-
-> My ultimate Nuxt.js project
-
-## Build Setup
-
-```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
+```
+yarn install
+yarn dev
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+http://localhost:3000/
+
+![image](https://user-images.githubusercontent.com/13635059/80929016-c9259f00-8de3-11ea-82d8-73b785d48371.png)
+
 
