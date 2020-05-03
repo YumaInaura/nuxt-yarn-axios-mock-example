@@ -1,3 +1,6 @@
+https://github.com/m-mitsuhide/axios-mock-server/tree/develop/examples/with-nuxtjs
+
+
 # nuxt-yarn-axios-mock-example
 
 > My ultimate Nuxt.js project
@@ -20,3 +23,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
